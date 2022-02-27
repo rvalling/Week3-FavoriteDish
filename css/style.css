@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&display=swap');
+
+body{
+    background-color: aqua;
+    color: indigo;
+}
+
+.heading{
+    text-align:center
+}
+
+.ülepannikoogid-heading{
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+.Koostisosad{
+    border: 1px solid black;
+    width: 15%;
+}
+img{
+    width: 150px;
+}
